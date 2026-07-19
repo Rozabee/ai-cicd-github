@@ -11,7 +11,7 @@
 
 ---
 
-## Introducing Today's Project!
+## Set Python Virtual Environment + CI/CD - Project!
 
 In this project, I'm going to build... test scripts using Python and its virtual enviroment. CI/CD is... means continouos integration and continous deployment/development. GitHub Actions helps me... to run the python tests. 
 
